@@ -1,0 +1,3 @@
+Ola mundo..\n Testando arquivo;
+readTextFile();
+save
