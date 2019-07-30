@@ -1,4 +1,4 @@
-# Imagem base com o node 10.11 instalado
+# Imagem base
 FROM node:10.11
 
 # Criando uma pasta para armazenar a aplicação
